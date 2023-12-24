@@ -5,9 +5,9 @@ Neat Mimarisi kullanılarak geliştirilen, Pong oynamayı öğrenen yapay zeka.
 
 * Kütüphaneler:
 
-pip install neat-python
+neat-python == 0.92
 
-pip install pygame
+pygame == 2.5.2
 
 
 https://github.com/koesan/NEAT-Pong-Python/assets/96130124/cd4bcfee-0b89-4ed6-bf7e-198813458e68
