@@ -4,7 +4,6 @@ import random
 import pickle
 import neat
 import time
-from scipy.spatial import distance
 
 # Pencere boyutu
 WIDTH, HEIGHT = 700, 500
