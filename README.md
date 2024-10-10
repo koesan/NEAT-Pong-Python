@@ -1,14 +1,14 @@
 # NEAT Pong Python
 
-This project uses the **NEAT (NeuroEvolution of Augmenting Topologies)** algorithm to develop an AI that learns to play Pong by itself.
+This project uses the **NEAT** algorithm to develop an AI that learns to play Pong by itself.
 
 # Game Mechanics
 
-In the game, the AI uses the NEAT algorithm to move the paddle based on the position of the ball to earn points. The AI starts by moving the paddle randomly and improves over generations. As the neural networks evolve, the AI becomes smarter and learns better strategies to catch the ball.
+In the game, AI uses the NEAT algorithm to move the paddle based on the position of the ball to earn points. AI starts by moving the paddle randomly and improves over generations. As neural networks evolve AI becomes smarter and learns better strategies to catch the ball.
 
 # NEAT Algorithm
 
-The NEAT algorithm shows how neural networks can evolve using genetic algorithms. In this project, each neural network controls a paddle in the Pong game. The algorithm selects the best-performing networks, and through an evolutionary process, it creates better networks.
+NEAT algorithm shows how neural networks can evolve using genetic algorithms. In this project, each neural network controls a paddle in the Pong game. algorithm selects the best performing networks and through an evolutionary process. İt creates better networks.
 
 ## Setup
 
@@ -23,7 +23,7 @@ The NEAT algorithm shows how neural networks can evolve using genetic algorithms
 
 ***
 
-Bu proje, **NEAT (NeuroEvolution of Augmenting Topologies)** algoritmasını kullanarak bir Pong oyununda otonom öğrenen bir AI geliştirilmiştir.
+Bu proje, **NEAT** algoritmasını kullanarak bir Pong oyununda otonom öğrenen bir AI geliştirilmiştir.
 
 # Oyun Mekaniği
 
